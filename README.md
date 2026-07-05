@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <code>// status: online · mode: deliberate</code>
+  <code>// clarity over cleverness · structure over noise</code>
 </p>
 
 <p align="center">
@@ -170,12 +170,6 @@ const ehsan = {
   <a href="mailto:ehsanbayranvand@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ehsanbayranvand@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00ff41" alt="Gmail"/>
   </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ehsan-bayranvand/">linkedin.com/in/ehsan-bayranvand</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:ehsanbayranvand@gmail.com">ehsanbayranvand@gmail.com</a>
 </p>
 
 <p align="center">
