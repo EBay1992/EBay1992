@@ -1,4 +1,3 @@
-<!-- ═══ CYBER · PHILOSOPHICAL · GREEN ═══ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d1f0d,100:00ff41&height=220&section=header&text=Ehsan%20Bayranvand&fontSize=36&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=engineer%20%C2%B7%20thinker%20%C2%B7%20builder&descSize=16&descAlignY=55&descAlign=50"/>
 
 <p align="center">
