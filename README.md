@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <code>// status: online · mode: deliberate · aesthetic: cyber-gentleman</code>
+  <code>// status: online · mode: deliberate</code>
 </p>
 
 <p align="center">
@@ -155,10 +155,10 @@ const ehsan = {
 
 ## ◈ Trace
 
-<p align="center"><sub>public + private contributions · same data as your GitHub profile graph</sub></p>
+<p align="center"><sub>contribution history · public + private (if enabled on your GitHub profile)</sub></p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EBay1992&bg_color=0a0a0a&color=00ff41&line=39ff14&point=ffffff&area=true&hide_border=true&count_private=true" alt="GitHub contribution activity — public and private"/>
+  <img src="https://github-contributions-api.jogruber.de/v4/EBay1992?type=svg&colors=0a0a0a,0e4429,006d32,26a641,39ff14" alt="GitHub contribution history mosaic"/>
 </p>
 
 ---
