@@ -155,10 +155,8 @@ const ehsan = {
 
 ## ◈ Trace
 
-<p align="center"><sub>contribution history · public + private (if enabled on your GitHub profile)</sub></p>
-
 <p align="center">
-  <img src="https://github-contributions-api.jogruber.de/v4/EBay1992?type=svg&colors=0a0a0a,0e4429,006d32,26a641,39ff14" alt="GitHub contribution history mosaic"/>
+  <img src="https://github-contributions-api.jogruber.de/v4/EBay1992?type=svg" alt="GitHub contribution history"/>
 </p>
 
 ---
