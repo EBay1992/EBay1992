@@ -156,7 +156,7 @@ const ehsan = {
 ## ◈ Trace
 
 <p align="center">
-  <img src="https://github-contributions-api.jogruber.de/v4/EBay1992?type=svg" alt="GitHub contribution history"/>
+  <img src="https://ghchart.rshah.org/EBay1992.svg" alt="GitHub contribution history"/>
 </p>
 
 ---
