@@ -90,43 +90,28 @@ const ehsan = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>▌ <a href="https://github.com/EBay1992/FluidVoice">FluidVoice</a></h3>
-      <p>On-device speech intelligence for macOS — local STT, AI refinement, zero compromise on privacy.</p>
+      <h3>▌ <a href="https://github.com/EBay1992/atlas">atlas</a></h3>
+      <p>Enterprise knowledge platform — document ingestion, embeddings, and tenant-scoped semantic search.</p>
       <p>
-        <a href="https://altic.dev/fluid"><img src="https://img.shields.io/badge/→-altic.dev%2Ffluid-000000?style=flat-square&logoColor=00ff41" alt="Website"/></a>
+        <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=00ff41" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Qdrant-000000?style=flat-square&logoColor=00ff41" alt="Qdrant"/>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>▌ <a href="https://github.com/EBay1992/fluidvoice-cli">fluidvoice-cli</a></h3>
-      <p>CLI interface for batch transcription and scripted automation workflows.</p>
+      <h3>▌ <a href="https://github.com/EBay1992/NexusWorkspaceEngine">NexusWorkspaceEngine</a></h3>
+      <p>Local-first distributed workspace builder — Y.js CRDT canvas, WebSocket relay, ASP.NET gateway.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00ff41" alt="Python"/>
+        <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=00ff41" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/.NET-000000?style=flat-square&logo=dotnet&logoColor=00ff41" alt=".NET"/>
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>▌ <a href="https://github.com/EBay1992/spiny-wheely">spiny-wheely</a></h3>
-      <p>iGaming monorepo — NestJS API, React client, tests, Kubernetes scaling POC.</p>
-      <p>
-        <img src="https://img.shields.io/badge/NestJS-000000?style=flat-square&logo=nestjs&logoColor=00ff41" alt="NestJS"/>
-        <img src="https://img.shields.io/badge/K8s-000000?style=flat-square&logo=kubernetes&logoColor=00ff41" alt="Kubernetes"/>
-      </p>
-    </td>
     <td width="50%" valign="top">
       <h3>▌ <a href="https://github.com/EBay1992/search_vid">search_vid</a></h3>
       <p>Search subtitles. Jump to the exact frame. Precision over friction.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=00ff41" alt="TypeScript"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>▌ <a href="https://github.com/EBay1992/mcp-first">mcp-first</a></h3>
-      <p>Model Context Protocol experiments — bridging human intent and machine capability.</p>
-      <p>
-        <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&labelColor=000000&color=00ff41" alt="MCP"/>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -137,6 +122,23 @@ const ehsan = {
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>▌ <a href="https://github.com/EBay1992/hatfcinChallenge">hatfcinChallenge</a></h3>
+      <p>.NET 8 challenge app — layered design, testing, and modern backend practices.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=00ff41" alt="C#"/>
+        <img src="https://img.shields.io/badge/.NET-000000?style=flat-square&logo=dotnet&logoColor=00ff41" alt=".NET"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>▌ <a href="https://github.com/EBay1992/topological-eeg-sheaf-filter">topological-eeg-sheaf-filter</a></h3>
+      <p>Cellular-sheaf &amp; Fourier-sheaf filters for EEG volume-conduction removal — models, baselines, BCI eval.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00ff41" alt="Python"/>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -144,9 +146,9 @@ const ehsan = {
 ## ◈ Now
 
 ```
+▸ shipping Atlas — tenant-scoped document RAG
 ▸ refining system design intuition
 ▸ exploring MCP as a new layer of developer cognition
-▸ reading more, shipping less but better
 ▸ open to conversations with curious builders
 ```
 
